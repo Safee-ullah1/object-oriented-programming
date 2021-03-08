@@ -1,0 +1,9 @@
+safee,s123,10
+adeel,a123,20
+safee,s123,30
+adeel,a123,22
+hassan,h123,15
+javad,j123,40
+moeez,m123,24
+umair,u123,19
+mubshir,m123,18
